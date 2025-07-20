@@ -5,7 +5,7 @@ categories: [Certificaciones, Ciberseguridad]
 tags: [Google, Cybersecurity, Certificaciones, Coursera]
 ---
 
-![Certificado Google Cybersecurity](/assets/img/certificado-google.png){: .shadow .rounded width="80%" }
+![Certificado Google Cybersecurity](/assets/img/certificados/certificado-google.png){: .shadow .rounded width="80%" }
 
 Hace un tiempo decidí dar un paso más en mi camino dentro de la ciberseguridad y obtener el **certificado Google Cybersecurity**. Lo curioso es que al inicio **ni siquiera sabía si podría pagarlo**. Mi plan era aprovechar al máximo la semana gratuita de Coursera y ver hasta dónde llegaba… pero, contra todo pronóstico, terminé completándolo.
 
