@@ -1,8 +1,8 @@
 ---
 title: "Mi experiencia con el certificado Google Cybersecurity"
 date: 2025-07-19
-categories: [Certificaciones, Ciberseguridad]
-tags: [Google, Cybersecurity, Certificaciones, Coursera]
+categories: [certificaciones, Ciberseguridad]
+tags: [Google, Cybersecurity, certificaciones, Coursera]
 ---
 
 ![Certificado Google Cybersecurity](/assets/img/certificados/certificado-google.png){: .shadow .rounded width="80%" }
