@@ -1,5 +1,5 @@
 ---
-title: "HTB Nocturnal (EASY): IDOR → RCE → CVE-2023-46818 → root"
+title: "Nocturnal - Easy (HTB)"
 date: 2025-08-24 18:00:00 -0700
 categories: [Writeups, HTB]
 tags: [HTB, nocturnal, idor, rce, ispconfig, cve-2023-46818, linux, hashcat, ffuf]
