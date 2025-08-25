@@ -5,10 +5,9 @@ categories: [Writeups, HTB]
 tags: [HTB, nocturnal, idor, rce, ispconfig, cve-2023-46818, linux, hashcat, ffuf]
 toc: true
 comments: true
-description: "Writeup de la maquina retirada de htb Nocturnal"
+description: "Writeup técnico de Nocturnal en HackTheBox: desde fuzzing y SQLite hasta explotación de ISPConfig con CVE-2023-46818."
 
 ---
-
 # Nocturnal — EASY
 
 📅 Fecha: 20-04-2025  
