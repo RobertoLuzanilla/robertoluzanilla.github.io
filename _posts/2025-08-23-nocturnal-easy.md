@@ -1,9 +1,9 @@
 ---
 title: "Nocturnal — EASY (HTB)"
-date: 2025-07-07 18:00:00 -0700
+date: 2025-08-23 18:00:00 -0700
 categories: [Writeups, HTB]
 tags: [HTB, nocturnal, idor, rce, ispconfig, cve-2023-46818, linux, hashcat, ffuf, sqlite]
-image: assets/img/nocturnal-easy/Nocturnal-HTB.png
+image: /assets/img/Nocturnal-HTB.png
 toc: true
 comments: true
 description: "Writeup técnico y ampliado de Nocturnal (HTB). Reconocimiento, explotación (IDOR → RCE en backup → dumping SQLite), escalada a root vía CVE-2023-46818 en ISPConfig, y lecciones prácticas."

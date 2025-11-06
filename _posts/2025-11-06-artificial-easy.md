@@ -1,6 +1,6 @@
 ---
 title: "Artificial — EASY"
-date: 2025-11-06 20:00:00 -0700
+date: 2025-07-07 20:00:00 -0700
 categories: [Writeups, HTB]
 tags: [HTB, artificial, tensorflow, deserialization, docker, bcrypt]
 image: /assets/img/artificial/Artificial-HTB.png
