@@ -1,6 +1,6 @@
 ---
 title: "Strutted — MEDIUM"
-date: 2025-11-08 20:00:00 -0700
+date: 2025-11-15 00:00:00 -0700
 categories: [Writeups, HTB]
 tags: [HTB, strutted, apache, struts2, cve-2024-53677, rce, tcpdump]
 image: /assets/img/strutted/Strutted-HTB.png
