@@ -1,6 +1,6 @@
 ---
 title: "Outbound — EASY"
-date: 2025-11-15 20:00:00 -0700
+date: 2025-11-15 12:00:00 -0700
 categories: [Writeups, HTB]
 tags: [HTB, outbound, roundcube, cve-2025-49113, des3, mysql, below, symlink, rce]
 image: /assets/img/outbound/Outbound-HTB.png
