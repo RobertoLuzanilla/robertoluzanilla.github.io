@@ -6,7 +6,7 @@ tags: [HTB, cicada, active-directory, smb, ldap, winrm, secretsdump, pass-the-ha
 image: /assets/img/cicada/Cicada-HTB.png
 toc: true
 comments: true
-description: "Writeup técnico paso a paso de 'Cicada' (HTB): enumeración de un Domain Controller, abuso de SMB guest para filtrar una contraseña por defecto, enumeración LDAP autenticada para encontrar credenciales en un atributo de usuario, extracción de creds desde un script en un share DEV, acceso por WinRM y escalada a Administrator abusando de SeBackupPrivilege + secretsdump + Pass-the-Hash."
+description: "Writeup técnico paso a paso de 'Cicada' (HTB): enumeración de un Domain Controller, abuso de SMB guest para filtrar una contraseña por defecto, enumeración LDAP autenticada para encontrar credenciales en un atributo de usuario, extracción de creds desde un script en un share DEV, acceso por WinRM y escalada a Administrator abusando de SeBackupPrivilege"
 ---
 
 # 🚀 Cicada — EASY
